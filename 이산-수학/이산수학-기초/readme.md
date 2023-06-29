@@ -3,7 +3,17 @@
 ### 1강 이산수학 개요
 - 불연속적인 숫자를 다루는 수학
 - 컴퓨터를 위한 수학, 참과 거짓으로 살펴보는 컴퓨터 수학, 전산, 정보 수학, 1학년이나 처음 컴퓨터를 배우는 입장에서 배우게됨, 자료구조 또는  알고리즘의 베이스, 논리적 사고, 컴퓨팅 사고력 향상
-- 
+  
+:white_large_square:
+:white_check_mark:
+
+|진행상태|이름|정리 사이트|
+|----|----|----|
+|:white_large_square:|이세훈|www.naver.com|
+|:white_large_square:|연제경|d|
+|:white_large_square:|최규호|d|
+|:white_large_square:|이은성|d|
+|:white_large_square:|강현|d|
 
 ### [2강 명제와 연산자](/이산-수학/이산수학-기초/명제와-연산자.md)
  
