@@ -1,5 +1,3 @@
-:white_large_square:
-:white_check_mark:
 
 |학습 기간|발표 일자|이번주 서기|영상 URI|
 |----|----|----|----|
@@ -10,7 +8,7 @@
 |:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|이세훈|www.naver.com|
 |:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|연제경|d|
 |:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|최규호|d|
-|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|이은성|d|
+|::white_check_mark::|:white_large_square:|:white_large_square:|:white_large_square:|이은성|d|
 |:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|강현|d|
 
 ### 1강 이산수학 개요
