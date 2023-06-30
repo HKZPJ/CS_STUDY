@@ -8,7 +8,7 @@
 |:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|이세훈|www.naver.com|
 |:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|연제경|d|
 |:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|최규호|d|
-|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|이은성|d|
+|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_large_square:|이은성|https://velog.io/@seong_li/%EC%9D%B4%EC%82%B0-%EC%88%98%ED%95%99-%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99-%EA%B8%B0%EC%B4%88|
 |:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|강현|d|
 
 ### 1강 이산수학 개요
