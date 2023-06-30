@@ -1,6 +1,12 @@
 # CS 학습 플랜/정리 템플릿
 과목별 추천 동영상 강의를 중심으로 진도를 추적하고 배운 내용을 정리하기 위한 템플릿입니다.
 
+> 스터디원 소개
+<table>
+  <tr>
+      <td align="center"><a href="https://github.com/SeongLI"><img src="https://avatars.githubusercontent.com/u/110223414?v=4" width="100px;" height="120px;" alt=""/><br /><sub><b>이은성<br>Back-end <br> Front-end<br/></b></sub></a></td>
+</table>
+
 ### 이산 수학
 |파트|진행상태|학습시간|강의내용|비고|
 | ------ | ------ | ------ | ------ | ------ |
