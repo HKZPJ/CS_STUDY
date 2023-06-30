@@ -1,7 +1,7 @@
 # CS 학습 플랜/정리
 
 > ### 스터디원 소개
-<table>
+<table align="center">
   <tr>
     <td align="center"><a href="https://github.com/Kimzegal"><img src="https://avatars.githubusercontent.com/u/135003325?v=4" width="100px;" height="120px;" alt=""/><br /><sub><b>이세훈<br>Back-end <br> Front-end<br/></b></sub></a></td>
     <td align="center"><a href="https://github.com/Eungae-D"><img src="https://avatars.githubusercontent.com/u/135101171?v=4" width="100px;" height="120px;" alt=""/><br /><sub><b>최규호<br>Back-end <br> Front-end<br/></b></sub></a></td>
