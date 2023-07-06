@@ -11,7 +11,7 @@
 |진행상태|1강|2강|3강|4강|이름|정리 사이트|
 |----|----|----|----|----|----|----|
 |:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|이세훈|www.com|
-|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|연제경|www.com|
+|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|연제경|www.gtking.tistory.com| 아직 블로그 미완
 |:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|최규호|www.com|
 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|이은성|[흑](https://velog.io/@seong_li/%EC%9D%B4%EC%82%B0-%EC%88%98%ED%95%99-%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99-%EA%B8%B0%EC%B4%88)|
 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|강현|[www.com](https://hyunleo.tistory.com/category/CS/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99%20%EA%B8%B0%EC%B4%88)|
